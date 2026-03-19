@@ -7,6 +7,8 @@ A macOS app that visualizes token usage from Claude Code sessions.
 
 ## スクリーンショット / Screenshot
 
+![CtxMonitor screenshot](screenshot.png)
+
 > Day / Week / Total の期間切り替えとセッション別トレンド分析
 
 ---
